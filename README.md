@@ -44,4 +44,4 @@ The task is located in cz/acamar/tasks/Task2.java
     After sorting, it becomes [0,1,9,16,100].
 
 ## How to submit code?
-Please upload completed code to a personal git repository and share the link to your repository with us.
+Please upload completed code to a personal git repository and share the link to your repository with us.# ExamAnswers
